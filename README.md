@@ -5,8 +5,8 @@
 <a href="https://www.youtube.com/@cyberspell337">YouTube</a>
 </p>
 <hr>
-<p>I am a cyber enthusiast, and passionate about understanding the intricacies of how things work, especially in wireless communication, circuits, and computer systems. I am a CTF player and I actively share my knowledge through regular blogging.</p>
-<p>Apart from academics, I love meeting new people and collaborating on various projects. This often leads me to volunteer for different programs and conferences. I firmly believe in shared learning and growth.</p>
+<p>👨🏻‍💻I am a cyber enthusiast, and passionate about understanding the intricacies of how things work, especially in wireless communication, circuits, and computer systems✨. I am a CTF player and I actively share my knowledge through regular blogging⚡.</p>
+<p>Apart from academics, I love meeting new people and collaborating on various projects. This often leads me to volunteer for different programs and conferences. I firmly believe in shared learning and growth ✨.</p>
 
 
 <p align="left">
